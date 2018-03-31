@@ -17,7 +17,7 @@
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
   <!-- About phone screen, Extended version -->
-  <string name="extended_version">Extended版本</string>
+  <string name="extended_version">Extended 版本</string>
   <string name="extended_version_default">未知</string>
   <string name="extensions_title">扩展</string>
   <!-- AEX OTA -->
@@ -62,8 +62,8 @@
   <!-- Custom tiles summary -->
   <string name="substratum_settings_summary">主题引擎</string>
   <!-- Root Management -->
-  <string name="rootmanagement_title">Root管理</string>
-  <string name="rootmanagement_dashboard_summary">管理root权限</string>
+  <string name="rootmanagement_title">Root 管理</string>
+  <string name="rootmanagement_dashboard_summary">管理 root 权限</string>
   <!-- Dummy string needed to hide SuperSU from launcher, no need to translate -->
   <string name="supersu_title">SuperSU</string>
   <!-- Increasing ring tone volume -->
@@ -85,7 +85,7 @@
   <string name="less_notification_sounds_5m">5 分钟</string>
   <!-- Magisk Manager -->
   <string name="magisk_title">Magisk Manager</string>
-  <string name="magisk_summary">Root管理</string>
+  <string name="magisk_summary">Root 管理</string>
   <!-- PIN scramble -->
   <string name="unlock_scramble_pin_layout_title">打乱布局</string>
   <string name="unlock_scramble_pin_layout_summary">解锁手机时打乱PIN布局</string>
@@ -331,14 +331,14 @@
   <!-- Dashboard options -->
   <string name="dashboard_category">面板设置</string>
   <string name="dashboard_suggestions_title">建议</string>
-  <string name="summary_dashboard_suggestions_enabled">面板建议已启用</string>
-  <string name="summary_dashboard_suggestions_disabled">面板建议已禁用</string>
+  <string name="summary_dashboard_suggestions_enabled">建议面板已启用</string>
+  <string name="summary_dashboard_suggestions_disabled">建议面板已禁用</string>
   <string name="remove_tile_summaries_title">摘要</string>
-  <string name="remove_tile_summaries_summary_enabled">面板摘要已启用</string>
-  <string name="remove_tile_summaries_summary_disabled">面板摘要已禁用</string>
+  <string name="remove_tile_summaries_summary_enabled">摘要面板已启用</string>
+  <string name="remove_tile_summaries_summary_disabled">摘要面板已禁用</string>
   <string name="dashboard_conditions_title">状态</string>
-  <string name="summary_dashboard_conditions_enabled">仪表板条件被启用</string>
-  <string name="summary_dashboard_conditions_disabled">仪表板条件被禁用</string>
+  <string name="summary_dashboard_conditions_enabled">状态显示已启用</string>
+  <string name="summary_dashboard_conditions_disabled">状态显示已禁用</string>
   <string name="dashboard_columns_portrait_title">列 （纵向）</string>
   <string name="dashboard_columns_landscape_title">列 （横向）</string>
   <!-- Battery saver notification toggle -->
