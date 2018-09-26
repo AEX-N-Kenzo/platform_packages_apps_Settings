@@ -2864,7 +2864,7 @@
     <string name="tap_to_wake" msgid="7211944147196888807">"双击唤醒"</string>
     <string name="tap_to_wake_summary" msgid="4341387904987585616">"在屏幕上的任意位置点按两次即可唤醒设备"</string>
     <string name="domain_urls_title" msgid="3132983644568821250">"打开链接"</string>
-    <string name="domain_urls_summary_none" msgid="2639588015479657864">"不打开支持的链接"</string>
+    <string name="domain_urls_summary_none" msgid="2639588015479657864">"没有支持打开的链接"</string>
     <string name="domain_urls_summary_one" msgid="3704934031930978405">"打开 <xliff:g id="DOMAIN">%s</xliff:g>"</string>
     <string name="domain_urls_summary_some" msgid="3950089361819428455">"打开 <xliff:g id="DOMAIN">%s</xliff:g> 和其他网址"</string>
     <plurals name="domain_urls_apps_summary" formatted="false" msgid="4322996467951692661">
