@@ -83,9 +83,6 @@
   <string name="less_notification_sounds_1m">1 分钟</string>
   <string name="less_notification_sounds_2m">2分钟</string>
   <string name="less_notification_sounds_5m">5 分钟</string>
-  <!-- Magisk Manager -->
-  <string name="magisk_title">Magisk Manager</string>
-  <string name="magisk_summary">Root 管理</string>
   <!-- PIN scramble -->
   <string name="unlock_scramble_pin_layout_title">打乱布局</string>
   <string name="unlock_scramble_pin_layout_summary">解锁手机时打乱PIN布局</string>

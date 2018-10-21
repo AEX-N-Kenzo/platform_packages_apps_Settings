@@ -72,8 +72,6 @@
   <string name="less_notification_sounds_1m">1 minut</string>
   <string name="less_notification_sounds_2m">2 minuter</string>
   <string name="less_notification_sounds_5m">5 minuter</string>
-  <!-- Magisk Manager -->
-  <string name="magisk_summary">Roothantering</string>
   <!-- PIN scramble -->
   <string name="unlock_scramble_pin_layout_title">Kasta om layout</string>
   <!-- Per-app data restrictions -->
