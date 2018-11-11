@@ -58,6 +58,7 @@
   <string name="less_notification_sounds_1m">1 dəqiqə</string>
   <string name="less_notification_sounds_2m">2 dəqiqə</string>
   <string name="less_notification_sounds_5m">5 dəqiqə</string>
+  <!-- Magisk Manager -->
   <!-- PIN scramble -->
   <!-- Per-app data restrictions -->
   <!-- Title for switch to block app data usage [CHAR LIMIT=30] -->

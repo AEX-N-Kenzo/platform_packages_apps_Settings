@@ -83,6 +83,9 @@
   <string name="less_notification_sounds_1m">1 хвилина</string>
   <string name="less_notification_sounds_2m">2 хвилини</string>
   <string name="less_notification_sounds_5m">5 хвилин</string>
+  <!-- Magisk Manager -->
+  <string name="magisk_title">Magisk менеджер</string>
+  <string name="magisk_summary">Керування Root-доступом</string>
   <!-- PIN scramble -->
   <string name="unlock_scramble_pin_layout_title">Перемішана розкладка</string>
   <string name="unlock_scramble_pin_layout_summary">Перемішувати розкладку PIN-коду підчас розблокування пристрою</string>

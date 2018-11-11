@@ -83,6 +83,9 @@
   <string name="less_notification_sounds_1m">1 minúta</string>
   <string name="less_notification_sounds_2m">2 minúty</string>
   <string name="less_notification_sounds_5m">5 minút</string>
+  <!-- Magisk Manager -->
+  <string name="magisk_title">Magisk manažér</string>
+  <string name="magisk_summary">Správca Root oprávnení</string>
   <!-- PIN scramble -->
   <string name="unlock_scramble_pin_layout_title">Pomiešať rozloženie</string>
   <string name="unlock_scramble_pin_layout_summary">Pomiešať rozloženie kláves pre zadanie kódu PIN pri odomykaní zariadenia</string>

@@ -83,6 +83,9 @@
   <string name="less_notification_sounds_1m">1 хвіліна</string>
   <string name="less_notification_sounds_2m">2 хвіліны</string>
   <string name="less_notification_sounds_5m">5 хвілін</string>
+  <!-- Magisk Manager -->
+  <string name="magisk_title">Magisk Manager</string>
+  <string name="magisk_summary">Кіраванне правамі суперкарыстальніка</string>
   <!-- PIN scramble -->
   <string name="unlock_scramble_pin_layout_title">Змешваць кнопкі</string>
   <string name="unlock_scramble_pin_layout_summary">Перастаўляць кнопкі ўводу PIN-кода ў выпадковым парадку</string>

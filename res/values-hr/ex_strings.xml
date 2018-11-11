@@ -61,6 +61,8 @@
   <string name="less_notification_sounds_1m">1 minuta</string>
   <string name="less_notification_sounds_2m">2 minute</string>
   <string name="less_notification_sounds_5m">5 minuta</string>
+  <!-- Magisk Manager -->
+  <string name="magisk_title">Magisk Manager</string>
   <!-- PIN scramble -->
   <!-- Per-app data restrictions -->
   <!-- Title for switch to block app data usage [CHAR LIMIT=30] -->

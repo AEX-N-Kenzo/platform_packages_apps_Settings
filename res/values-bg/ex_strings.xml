@@ -77,6 +77,9 @@
   <string name="less_notification_sounds_1m">1 минута</string>
   <string name="less_notification_sounds_2m">2 минути</string>
   <string name="less_notification_sounds_5m">5 минути</string>
+  <!-- Magisk Manager -->
+  <string name="magisk_title">Magisk мениджър</string>
+  <string name="magisk_summary">Администраторски достъп</string>
   <!-- PIN scramble -->
   <string name="unlock_scramble_pin_layout_title">Разбъркано оформление</string>
   <!-- Per-app data restrictions -->

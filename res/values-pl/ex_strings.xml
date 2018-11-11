@@ -82,6 +82,9 @@
   <string name="less_notification_sounds_1m">1 minuta</string>
   <string name="less_notification_sounds_2m">2 minuty</string>
   <string name="less_notification_sounds_5m">5 minut</string>
+  <!-- Magisk Manager -->
+  <string name="magisk_title">Menedżer Magisk</string>
+  <string name="magisk_summary">Zarządzanie rootem</string>
   <!-- PIN scramble -->
   <string name="unlock_scramble_pin_layout_title">Pomniejszony układ</string>
   <string name="unlock_scramble_pin_layout_summary">Pomieszany układ cyfr przy odblokowywaniu urządzenia kodem PIN</string>
